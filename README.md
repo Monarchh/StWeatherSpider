@@ -10,6 +10,10 @@
 可以先用print语句测试是否能在终端显示出爬取的数据。成功后再修改pipeline将爬取到的数据存入MySQL数据库，最后用Matplotlib生成含有最高气温与最低气温的
 折线图
 
+存入MySQL的3125条数据如图
+
+![Image text](https://github.com/Monarchh/StWeatherSpider/blob/master/StWeatherSpider/analysis/%E9%99%84/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-23%20%E4%B8%8B%E5%8D%8810.14.06.png)
+
 ![Image text](https://github.com/Monarchh/StWeatherSpider/blob/master/StWeatherSpider/analysis/%E9%99%84/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-23%20%E4%B8%8B%E5%8D%8810.00.01.png)
 
 通过Matplotlib里面的放大镜可以查看具体年份的气温情况（下图为2018年汕头气温情况）
